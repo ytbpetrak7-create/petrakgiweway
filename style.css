@@ -1,4 +1,16 @@
 h1 {
    text-align: center;
+   color: white;
 }
 
+.link {
+   color: lightblue;
+   font-size: 40px;
+   margin: 50px;
+}
+body {
+     background-image: url(cer2.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 100vh;
+}
